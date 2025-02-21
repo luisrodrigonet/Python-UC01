@@ -1,5 +1,5 @@
 
-# Tutorial: Criando um Ambiente Virtual no Python, Associando uma Conta do GitHub e Clonando um Repositório Remoto
+# Tutorial: Criando um Ambiente Virtual no Python
 
 Neste tutorial, vamos aprender a criar um ambiente virtual no Python, associar uma conta do GitHub diferente daquela utilizada fora do ambiente virtual, e clonar e sincronizar um repositório remoto.
 
