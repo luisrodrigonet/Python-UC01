@@ -6,7 +6,7 @@
 
 - Crie um programa que peça dois números ao usuário e mostre a soma, subtração, multiplicação e divisão entre eles.
 
-##v2. **Média de notas**:
+## 2. **Média de notas**:
 - Peça ao usuário três notas e calcule a média aritmética.
 
 ## 3. **Conversor de temperatura**:
