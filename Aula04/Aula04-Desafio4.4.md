@@ -49,5 +49,3 @@ E se quisermos que o programa também aconselhe o usuário sobre como se vestir?
 
 -   🔥 Se estiver muito quente → "Beba bastante água e use roupas leves!"
 -   🥶 Se estiver congelante → "Use roupas térmicas e se mantenha aquecido!"
-
-Quer tentar modificar o código para incluir essa funcionalidade? Se precisar de ajuda, estou aqui! 🚀🐍
