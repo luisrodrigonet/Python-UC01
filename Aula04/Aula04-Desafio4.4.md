@@ -1,4 +1,4 @@
-# Desafio 3
+# Desafio 4
 > O recrutador entregou uma lista de atividades para você executar, relacionadas às condicionais.
 
 ## 1️⃣ Peça ao usuário um número e diga se ele é positivo, negativo ou zero.
