@@ -7,7 +7,9 @@ Aprender e praticar as principais funcionalidades do **Git**, focando no trabalh
 ## 📌 **Pré-requisitos**:  
 
 ✅ **Git instalado**: Se ainda não instalou, baixe  [aqui](https://git-scm.com/).
+
 ✅ **Conta no GitHub**  (ou GitLab/Bitbucket, se preferir).
+
 ✅ Conhecimento básico de uso de  **terminal**  (Prompt de Comando, PowerShell ou Terminal Linux/Mac).
 
 ## **🔹 Passo 1: Criar um Repositório no GitHub**
