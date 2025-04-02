@@ -105,7 +105,7 @@ class Biblioteca:
 ## Menu do programa
 
 :snake: **Código**:
-```
+```python
 # Função para exibir o menu
 def exibir_menu():
     print("\n--- Sistema de Gerenciamento de Biblioteca ---")
@@ -121,7 +121,7 @@ def exibir_menu():
 
 
 :snake: **Código**:
-```
+```python
 if __name__ == "__main__" :
     # Programa principal
     biblioteca = Biblioteca()
