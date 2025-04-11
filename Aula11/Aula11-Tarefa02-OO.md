@@ -282,7 +282,7 @@ banco.listar_contas()
    - `sacar(valor)` (com verificação de saldo)
    - `exibir_dados()`
    
- :snake: Codigo
+:snake: Codigo
 
 ```python
 class Conta:
